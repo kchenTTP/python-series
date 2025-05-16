@@ -13,6 +13,7 @@ This is a series of tutorials that will teach you everything you need to know ab
 3. [Basic Data Structures: List, Set, Tuple, Dictionaries, and Strings]()
 4. [Errors and Exceptions](./error_handling_and_exceptions_in_python/Errors_and_Exceptions_in_Python.ipynb)
 5. [Error Handling and Testing](./error_handling_and_exceptions_in_python/Error_Handling_and_Testing_in_Python.ipynb)
+6. [Loops and Iteration in Python](./loops_and_iteration_in_python/Loops_and_Iteration_in_Python.ipynb)
 
 ### Intermediate
 
