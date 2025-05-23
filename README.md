@@ -24,7 +24,7 @@ This is a series of tutorials that will teach you everything you need to know ab
 5. [Object-Oriented Programming 1](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_1.ipynb)
 6. [Object-Oriented Programming 2](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_2.ipynb)
 7. [Object-Oriented Programming 3](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_3.ipynb)
-8. [Object-Oriented Programming 4](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_4.ipynb)
+8. [Object-Oriented Programming Extras](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Extras.ipynb)
 
 ### Advanced
 
