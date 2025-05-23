@@ -21,7 +21,7 @@ This is a series of tutorials that will teach you everything you need to know ab
 2. [Advanced Functions 1: Higher Order Functions](./advanced_python_functions/Advanced_Python_Functions_Part_1_Higher_Order_Functions.ipynb)
 3. [Advanced Functions 2: Closures and Decorators](./advanced_python_functions/Advanced_Python_Functions_Part_2_Closures_and_Decorators.ipynb)
 4. [Advanced Functions 3: Recursions](./advanced_python_functions/Advanced_Python_Functions_Part_3_Recursions.ipynb)
-5. [Object-Oriented Programming 1](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_1.ipynb)
+5. [Object-Oriented Programming 1](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_1_Fundamentals.ipynb)
 6. [Object-Oriented Programming 2](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_2.ipynb)
 7. [Object-Oriented Programming 3](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Part_3.ipynb)
 8. [Object-Oriented Programming Extras](./object_oriented_programming_in_python/Object_Oriented_Programming_in_Python_Extras.ipynb)
