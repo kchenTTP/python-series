@@ -1,6 +1,6 @@
-# Python Tutorials
+# Python Tutorials (WIP)
 
-This is a series of tutorials that will teach you everything you need to know about Python.
+This is a series of tutorials that will teach you everything you need to know about Python. Work in progress.
 
 ---
 
@@ -8,9 +8,9 @@ This is a series of tutorials that will teach you everything you need to know ab
 
 ### Basics
 
-1. [Fundamentals of Python 1: Basic Syntax, Data Types, and Operators]()
-2. [Fundamentals of Python 2: Control Flow, Loops, and Functions]()
-3. [Basic Data Structures: List, Set, Tuple, Dictionaries, and Strings]()
+1. [Fundamentals of Python 1: Basic Syntax, Data Types, and Operators]
+2. [Fundamentals of Python 2: Control Flow, Loops, and Functions]
+3. [Basic Data Structures: List, Set, Tuple, Dictionaries, and Strings]
 4. [Errors and Exceptions](./error_handling_and_exceptions_in_python/Errors_and_Exceptions_in_Python.ipynb)
 5. [Error Handling and Testing](./error_handling_and_exceptions_in_python/Error_Handling_and_Testing_in_Python.ipynb)
 6. [Loops and Iteration in Python](./loops_and_iteration_in_python/Loops_and_Iteration_in_Python.ipynb)
@@ -38,27 +38,27 @@ This is a series of tutorials that will teach you everything you need to know ab
 
 ### File Handling
 
-1. [File Handling Basics]()
-2. [Working with Audio]()
-3. [Working with Images]()
+1. [File Handling Basics]
+2. [Working with Audio]
+3. [Working with Images]
 
 ### Web Programming
 
-1. [Working with Web APIs]()
-2. [Web Scraping 1]()
-3. [Web Scraping 2]()
-4. [Creating Simple Web Applications with Streamlit]()
+1. [Working with Web APIs]
+2. [Web Scraping 1]
+3. [Web Scraping 2]
+4. [Creating Simple Web Applications with Streamlit]
 
 ### Data Science
 
-1. []()
+<!-- 1. []() -->
 
 ### Natural Language Processing
 
-1. []()
+<!-- 1. []() -->
 
 ### Miscellaneous
 
-1. [Setting up Your Coding Environment]()
+1. [Setting up Your Coding Environment]
 2. [Intro to Shell Commands](./intro_to_shell_commands/shell-commands.md)
 
