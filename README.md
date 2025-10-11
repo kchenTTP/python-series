@@ -1,6 +1,6 @@
 # Python Tutorials (WIP)
 
-This is a series of tutorials that will teach you everything you need to know about Python. Work in progress.
+A series of tutorials that will teach you everything you need to know about Python. Work in progress.
 
 ---
 
